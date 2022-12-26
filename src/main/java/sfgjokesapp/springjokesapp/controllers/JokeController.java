@@ -1,9 +1,9 @@
-package controllers;
+package sfgjokesapp.springjokesapp.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import services.GetQuoteService;
+import sfgjokesapp.springjokesapp.services.GetQuoteService;
 
 @Controller
 public class JokeController {

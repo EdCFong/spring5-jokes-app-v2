@@ -1,4 +1,4 @@
-package models;
+package sfgjokesapp.springjokesapp.models;
 
 public class Quote {
     private String joke;
